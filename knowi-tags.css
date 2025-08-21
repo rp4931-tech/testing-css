@@ -1,5 +1,5 @@
 
-#dash-header .nlp-dialog.open{
-/*   box-shadow: none !important; */
-  box-shadow: none;
+#dash-header dash-header-container .nlp-dialog.open{
+  box-shadow: none !important;
+/*   box-shadow: none; */
 }
